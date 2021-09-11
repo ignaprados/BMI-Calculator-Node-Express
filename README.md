@@ -9,3 +9,11 @@ Use the package manager [npm](https://www.npmjs.com/) to install the Express ser
 ```bash
 npm install
 ```
+ ## Run server
+ ```
+ nodemon start
+ ```
+Or you can use instead
+ ```
+ npm start
+ ```
