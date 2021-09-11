@@ -10,10 +10,11 @@ Use the package manager [npm](https://www.npmjs.com/) to install the Express ser
 npm install
 ```
  ## Run server
+ Using [Nodemon](https://www.npmjs.com/package/nodemon)
  ```
  nodemon start
  ```
-Or you can use instead
+Or you can use instead [npm](https://www.npmjs.com/)
  ```
  npm start
  ```
